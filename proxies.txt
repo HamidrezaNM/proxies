@@ -1,2 +1,27 @@
 https://t.me/proxy?server=manganites-Koncinio.nicname.com.gmail.com.Microsoft--com.tk&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE
 https://t.me/proxy?server=Loca.Koncinio.nicname.com.gmail.com.stockholm-countri.city&port=443&secret=3TK5IN_7UWQwKOL2uHjU6sE
+
+چند فیلترشکن بسیار پرسرعت
+از نوع shadowsocks یا ss
+براتون قرار دادم
+
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@212.102.35.218:40093/#surfshark%20NL
+
+ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@194.37.98.219:33148/#GB%20%F0%9F%87%AC%F0%9F%87%A7%20Manchester%201
+
+ss://YWVzLTI1Ni1nY206NDJTalQ5dkJGNm1hOWVGRjNVUmFKcFE0@89.238.130.245:49719/#UK%20man
+
+
+
+
+اجرا کننده اندروید
+github.com/shadowsocks/shadowsocks-android/releases
+
+اجرا کننده ویندوز
+m.majorgeeks.com/files/details/sstap.html
+
+اجرا کننده لینوکس
+github.com/shadowsocks/shadowsocks-qt5/releases
+
+سایر
+shadowsocks.org/en/download/clients.html
