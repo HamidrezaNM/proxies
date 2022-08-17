@@ -29,3 +29,6 @@ shadowsocks.org/en/download/clients.html
 8u3GDJWUoGBTNTdWe4WSggMB
 
 wbPh5HfDB9mzHMceF5Bec7cj
+
+
+https://t.me/proxy?server=kingdom.kaktoos.kitchen&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cudXBlcmEuc2hvcA
