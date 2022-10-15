@@ -40,3 +40,5 @@ https://t.me/proxy?server=79.137.196.42&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFu
 https://t.me/socks?server=37.32.14.8&port=1080&user=%40vpn_proxy66&pass=%40vpn_proxy66
 
 https://t.me/proxy?server=88.218.17.111&port=6979&secret=7mwfoAiUlCGIwCCK27rU8Ft3d3cuY2xvdWRmbGFyZS5jb20
+
+vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJBamRhciBQbHVzIDIoQEZ1dHVyZVRlY2hub2xvZ3lPZmZpY2lhbCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
