@@ -44,3 +44,6 @@ https://t.me/proxy?server=88.218.17.111&port=6979&secret=7mwfoAiUlCGIwCCK27rU8Ft
 vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJBamRhciBQbHVzIDIoQEZ1dHVyZVRlY2hub2xvZ3lPZmZpY2lhbCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 https://t.me/proxy?server=92.205.162.194&port=444&secret=ee69bfb9b8c720c8fd78da1057057953647777772e636c6f7564666c6172652e636f6d
+
+
+https://t.me/proxy?server=95.217.28.179&port=443&secret=ee1603010200010001fc030386e24c3add6d736e2e636f6d
