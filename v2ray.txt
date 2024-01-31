@@ -3,3 +3,5 @@ vless://2a121f82-e2e6-4a3b-876d-5b51306976b3@23.227.39.143:2053?type=grpc&securi
 https://sub.EndOfTheLine.cloud/subscribe?tkn=34e19c0d4745c4eda50d5c1d450b1c31
 
 https://github.com/2dust/v2rayNG/releases/download/1.8.12/v2rayNG_1.8.12_armeabi-v7a.apk
+
+vmess://eyJhZGQiOiI1MS4xOTUuMTM5LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhNmI5ZTc1LTBjYjgtNTdjMS1iN2QwLWE0MGMwOWMyNWYxYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoi8J+ltyBAdnBuZmFpbF9ib3Qg8J+HrPCfh6cgNTAlIE9GRkVSIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
